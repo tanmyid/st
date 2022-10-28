@@ -1,5 +1,6 @@
 # st - simple terminal
 # See LICENSE file for copyright and license details.
+# hacktoberfest event
 .POSIX:
 
 include config.mk
